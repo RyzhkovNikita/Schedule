@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="para1">08:30&#8211;10:05</string>
+    <string name="para2">10:15&#8211;11:50</string>
+    <string name="para3">12:00&#8211;13:35</string>
+    <string name="para4">13:50&#8211;15:25</string>
+    <string name="para5">15:40&#8211;17:15</string>
+    <string name="para6">17:25&#8211;19:00</string>
+    <string name="para7">19:10&#8211;20:45</string>
+    <string name="Monday">понедельник</string>
+    <string name="Tuesday">вторник</string>
+    <string name="Wednesday">среда</string>
+    <string name="Thursday">четверг</string>
+    <string name="Friday">пятница</string>
+    <string name="Saturday">суббота</string>
+    <string name="Sunday">воскресенье</string>
+    <string name="MondayShort">Пн</string>
+    <string name="TuesdayShort">Вт</string>
+    <string name="WednesdayShort">Ср</string>
+    <string name="ThursdayShort">Чт</string>
+    <string name="FridayShort">Пт</string>
+    <string name="SaturdayShort">Сб</string>
+    <string name="Chisl">числитель</string>
+    <string name="Znam">знаменатель</string>
+    <string name="empty">&#8211;</string>
+    <string name="refresh">refresh</string>
+    <string name="date">Date</string>
+    <string name="weekname">WeekName</string>
+    <string name="week">Week</string>
+    <string name="groupList">grouplist</string>
+    <string name="successful_operation">Успешно обновлено</string>
+    <string name="failed_operation">Проблемы с подключением к интернету</string>
+    <string name="no_schedule">Нет расписания</string>
+    <string name="error">Ошибка</string>
+    <string name="refresh_str">Обновить</string>
+</resources>

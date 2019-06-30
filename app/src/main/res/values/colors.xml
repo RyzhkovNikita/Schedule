@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myfon">#b3ddd4</color>
+    <color name="piiink">#FFFFFF</color>
+    <color name="paraBlue">#347BCC</color>
+    <color name="paraGreen">#31A867</color>
+    <color name="toolBarBG">#303F9F</color>
+</resources>
